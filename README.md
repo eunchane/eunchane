@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <h3 align="center">✨온갖 시련을 견디고...✨</h3>
 <div align="center">
-<img src="./002.jpg">
+<img src="./">
 <h3 align="center">✨취업하는 그날까지✨</h3>
-<img src="./001.jpg">
+<img src="./">
 </div>
  
 <h3 align="center">✨이름은 들어봤어요✨</h3>
