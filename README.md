@@ -14,7 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="center">✨<온갖 시련을 견디고>✨</h3>
+<div align="center">
 <img src="./002.jpg">
+</div>
+<h3 align="center">✨<취업하는 그날까지>✨</h3>
+<div align="center">
+<img src="./001.jpg">
+</div>
+ 
 <h3 align="center">✨이름은 들어봤어요✨</h3>
 <div align="center">
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openJDK&logoColor=white">&nbsp<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">&nbsp<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
