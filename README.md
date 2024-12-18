@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img src="이미지 URL">
 <h3 align="center">✨이름은 들어봤어요✨</h3>
 <div align="center">
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openJDK&logoColor=white">&nbsp<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">&nbsp<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFF"/>&nbsp<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFF"/>&nbsp<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
 <br>
-<h3 align="center">🛠 연장 🛠</h3>
+<h3 align="center">🛠 도구 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=Eclipse&logoColor=white" />&nbsp<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /><br>
  <img src="https://img.shields.io/badge/apache tomcat-FAD97F?style=for-the-badge&logo=apachetomcat&logoColor=black">
