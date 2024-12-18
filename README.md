@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">✨뭔지는 아는거✨</h3>
+<h3 align="center">✨이름은 들어봤어요✨</h3>
 <div align="center">
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openJDK&logoColor=white">&nbsp<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">&nbsp<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 </div>
