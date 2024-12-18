@@ -37,7 +37,7 @@ Here are some ideas to get you started:
  <a href="mailto:eunchan_wk@naver.com"><img src="https://img.shields.io/badge/mail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/></a>
 </div>
 
-
+<div align="center">
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/eunchane"
@@ -45,3 +45,4 @@ Here are some ideas to get you started:
   height="300"
 />
 </a>
+</div>
