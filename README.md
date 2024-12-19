@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">✨개백수...✨</h3>
+<h3 align="center">✨개백수에서✨</h3>
 <div align="center">
 <img src="./002.jpg/">
 <h3 align="center">✨취업하는 그날까지✨</h3>
