@@ -1,4 +1,4 @@
-## Hi there 👋
+## 은찬's GitHub
 
 <!--
 **eunchane/eunchane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
